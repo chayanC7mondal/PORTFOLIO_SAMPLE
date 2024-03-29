@@ -100,58 +100,8 @@ h2 span {
     margin: 0 auto;
 	text-align:center;
 }
-.Scriptcontent{
-	line-height:28px;	
-}
-.ScriptHeader h1{
-	font-family: "brandon-grotesque", "Brandon Grotesque", "Source Sans Pro", "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
-  text-rendering: optimizeLegibility;
-  -webkit-font-smoothing: antialiased;
-    color: #6a4aed;
-    font-size: 26px;
-    font-weight: 700;
-    margin: 0;
-    line-height: normal;
-
-}
-.ScriptHeader h2 {
-    color: #312c8f;
-    font-size: 20px;
-    font-weight: 400;
-    margin: 5px 0 0;
-    line-height: normal;
-
-}
-.ScriptHeader h1 span {
-    display: block;
-    padding: 0;
-    font-size: 22px;
-    opacity: 0.7;
-    margin-top: 5px;
-
-}
-.ScriptHeader span {
-    display: block;
-    padding: 0;
-    font-size: 22px;
-    opacity: 0.7;
-    margin-top: 5px;
-}
 
 
-
-
-/* ******************************************************
-	Live Demo
-*********************************************************/
-
-
-
-
-
-/* ******************************************************
-	Responsive Grids
-*********************************************************/
 
 .rt-container {
 	margin: 0 auto;
