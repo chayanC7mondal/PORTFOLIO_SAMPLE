@@ -193,7 +193,7 @@
   }
   .popup1 .content {
     max-height: 20%;
-    overflow: auto;
+    overflow: scroll;
   }
   
 
