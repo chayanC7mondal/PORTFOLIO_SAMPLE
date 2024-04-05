@@ -167,7 +167,7 @@
    
     background: #fff;
     width: 70%;
-    position:sticky;
+    position:relative;
     transition: all 0.5s ease-in-out;
    
   }
@@ -193,7 +193,7 @@
   }
   .popup1 .content {
     max-height: 20%;
-    overflow: scroll;
+    overflow:auto;
   }
   
 
