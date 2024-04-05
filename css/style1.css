@@ -161,13 +161,12 @@
 
 
   .popup1 {
-    margin: 55px ;
-    padding-top: 20px;
-    padding-left: 20px;
-   
+    margin: 45px auto;
+    padding: 20px 20px 5px 20px;
     background: #fff;
+    
     width: 70%;
-    position:relative;
+    position: relative;
     transition: all 0.5s ease-in-out;
    
   }
