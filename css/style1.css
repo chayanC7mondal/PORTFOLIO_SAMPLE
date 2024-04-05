@@ -161,13 +161,15 @@
 
 
   .popup1 {
-    margin: 70px auto;
-    padding: 20px;
+    margin: 55px auto;
+    padding-top: 20px;
+    padding-left: 20px;
+   
     background: #fff;
-    
     width: 70%;
-    position: relative;
+    position:sticky;
     transition: all 0.5s ease-in-out;
+   
   }
   
   .popup1 .tiptop {
@@ -190,7 +192,7 @@
     color: #ff0404;
   }
   .popup1 .content {
-    max-height: 30%;
+    max-height: 20%;
     overflow: auto;
   }
   
@@ -299,3 +301,4 @@
       }
 
   }
+
