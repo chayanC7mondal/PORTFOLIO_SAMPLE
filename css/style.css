@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700;800&family=Roboto:wght@100;300;400&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap')
+;
 :root {
     --primary-color: #f9532d;
     --primary-dark: #1F252E;
@@ -281,7 +283,7 @@ li a:hover {
 }
 
 .images {
-    width: 80%;
+    width: 70%;
     margin-left: auto;
     position: relative;
     z-index: -1;
@@ -327,11 +329,37 @@ li a:hover {
     background: var(--primary-dark);
 }
 
+.dark-mode .personal {
+    color: #dfd9d9;
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
 .perso1{
     padding:0 1px;
     margin: 2%;
 }
 
+.dark-mode .AWARD{
+    color:#cacaca;
+}
+.AWARD{
+    color: #1b1f27;
+}
+.exp{
+    color: #1b1f27;
+}
+.dark-mode .exp{color:#cacaca;
+
+}
+
+.courses{
+    color: #1b1f27;
+}
+.dark-mode .courses{
+    color:#cacaca;
+}
 @media screen and (max-width: 1024px) {
     .container {
         padding: 0 4.4rem;
@@ -441,13 +469,13 @@ quotes section */
 
 .column-quote {
    margin-top: 75px;
-   margin-left: 55px;
+   margin-left: 30px;
   width: 90%;
   height: 225px;
-  padding: 30px;
-  padding-left:70px;
-  padding-right: 70px;
-  padding-bottom:40px;
+  padding: 30px auto;
+ padding-left: 50px;
+ padding-right: 50px;
+ content: justify;
   
  
   margin-bottom:30px;
@@ -471,31 +499,31 @@ quotes section */
 @-webkit-keyframes blink {
   0% { box-shadow: 0 0 25px #f9532d; }
   50% { box-shadow: 0 0 0; }
-  100% { box-shadow: 0 0 5px #f9532d; }
+  100% { box-shadow: 0 0 25px #f9532d; }
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Vidaloka&family=Yeseva+One&display=swap');
 
 
-
 .quote {
   padding: auto;
-  font-size:40px;
+  font-size:25px;
   font-weight:bold;
   line-height: 1;
   text-align: center;
   opacity: 1;
   
-    font-family: "Yeseva One", serif;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Mukta", sans-serif;
+  font-weight: 400;
+  font-style: normal;
   
   
 }
 
-.containerY{padding: 0 8.4rem;
+.containerY{padding: 0 7.4rem;
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
+  margin-left: 50px;
 }
 
 .hr5{
@@ -507,15 +535,37 @@ quotes section */
 
 .quotings{
   font-size: 99px;
-  opacity: 0.5;
-color: #f9532d;
+  opacity: 1;
+color: #ff2f00;
 font-family: "Yeseva One", serif;
   font-weight: 400;
   font-style: normal;
+  margin-left: 135px;
 }
 
-.yeseva-one-regular {
+.quotings1{
+    font-size: 99px;
+    opacity: 1;
+  color: #f9532d;
   font-family: "Yeseva One", serif;
-  font-weight: 400;
-  font-style: normal;
-}
+    font-weight: 400;
+    font-style: normal;
+  }
+ .dark-mode .quotings{
+    font-size: 99px;
+    opacity: 0.5;
+  color: #f9532d;
+  font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 135px;
+  }
+
+  .dark-mode .quotings1{
+    font-size: 99px;
+    opacity: 0.5;
+  color: #f9532d;
+  font-family: "Yeseva One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
