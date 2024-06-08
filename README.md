@@ -1,5 +1,7 @@
-# portfolio_template
+# PORTFOLIO TEMPLATE
 
 This is a template for a portfolio website.
 
-click on the "index.html" file for the home page
+The Deployed Website is given.
+<br><br>
+#Download the CV by clicking the Download Button.
