@@ -476,7 +476,7 @@ quotes section */
  padding-left: 50px;
  padding-right: 50px;
  content: justify;
-  
+
  
   margin-bottom:30px;
   border: 1px solid #f9532d;
@@ -521,8 +521,8 @@ quotes section */
 }
 
 .containerY{padding: 0 7.4rem;
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-top: 2.5rem;
+  padding-bottom: 3.5rem;
   margin-left: 50px;
 }
 
