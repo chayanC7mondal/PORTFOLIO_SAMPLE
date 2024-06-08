@@ -100,7 +100,7 @@ body {
     
     }
 
-
+    
     @media screen and (max-width: 768px) {
         .container2 > * {
             width: 100%; /* On smaller screens, make each column take up full width */
