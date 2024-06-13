@@ -41,6 +41,7 @@ body {
 
 .container {
     padding: 0 7.4rem;
+    width: 100%;
    
 }
 
@@ -350,7 +351,7 @@ li a:hover {
 }
 .AWARD{
     color: #0b0d10;
-    padding: 5px 5px 5px 5px;
+   padding: 5px 5px 5px 5px;
     margin-bottom: 15px;
     line-height: 10px;
 }
