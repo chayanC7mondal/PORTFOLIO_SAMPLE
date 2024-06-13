@@ -342,10 +342,17 @@ li a:hover {
 }
 
 .dark-mode .AWARD{
-    color:#cacaca;
+    color:#f5f3f3;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 15px;
+    line-height: 10px;
+    
 }
 .AWARD{
-    color: #1b1f27;
+    color: #0b0d10;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 15px;
+    line-height: 10px;
 }
 .exp{
     color: #1b1f27;
