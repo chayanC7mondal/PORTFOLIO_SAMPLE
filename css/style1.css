@@ -279,7 +279,156 @@
 
 
 
+  .popup8 {
+    margin: 30px auto;
+    padding: 20px;
+    background: #fff;
+ 
+    width: 90%;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .popup8 .tiptop {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  .popup8 .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup8 .close:hover {
+    color: #ff0404;
+  }
+  .popup8 .content {
+    max-height: 50%;
+    font-size: 14.5px;
+  }
+  /* .popup8 .content:hover{
 
+    font-size: 16px;
+  } */
+
+
+  
+  .popup9 {
+    margin: 60px auto;
+    padding: 20px;
+    background: #fff;
+ 
+    width: 70%;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .popup9 .tiptop {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  .popup9 .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup9 .close:hover {
+    color: #ff0404;
+  }
+  .popup9 .content {
+    max-height: 30%;
+    overflow: auto;
+  }
+
+
+
+
+
+  .popup12 {
+    margin: 70px auto;
+    padding: 20px;
+    background: #fff;
+ 
+    width: 70%;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .popup12 .tiptop {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  .popup12 .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup12 .close:hover {
+    color: #ff0404;
+  }
+  .popup12 .content {
+    max-height: 30%;
+    overflow: auto;
+  }
+
+
+
+
+
+
+  .popup10 {
+    margin: 70px auto;
+    padding: 20px;
+    background: #fff;
+ 
+    width: 70%;
+    position: relative;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .popup10 .tiptop {
+    text-align: center;
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+  }
+  .popup10 .close {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+    transition: all 200ms;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #333;
+  }
+  .popup10 .close:hover {
+    color: #ff0404;
+  }
+  .popup10 .content10 {
+    max-height: 30%;
+    overflow: auto;
+  }
 
   @media screen and (max-width: 700px){
     .box{
