@@ -197,6 +197,7 @@
   .popup1 .content {
     max-height: 20%;
     overflow:auto;
+    font-size: 15px;
   }
   
 
