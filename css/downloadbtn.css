@@ -2,7 +2,7 @@
 /* 12 */
 @import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+ES:wght@100..400&display=swap');
 
     .name{
       font-size: 20px;
@@ -11,6 +11,10 @@
       font-family: "Playwrite NZ", cursive;
      
     }
+.made{
+  font-family: "Playwrite ES", cursive;
+}
+
 .top1{
   margin-left: 90%;
 }
@@ -32,6 +36,8 @@
   color: #00acf6;
 
 }
+
+
 
     
 
