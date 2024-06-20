@@ -8,4 +8,4 @@ The Deployed Website is given.
 
 <br>
 
-A sleek portfolio website showcasing creative projects, skills, and professional experience. 🎨✨ It features intuitive navigation, vibrant visuals, and engaging content, making it easy for potential clients and employers to explore and appreciate the individual's talents and accomplishments in a visually appealing format. 🚀💼
+A sleek portfolio website I created for my university professor, showcasing creative projects, skills, and professional experience. 🎨✨ It features intuitive navigation, vibrant visuals, and engaging content, allowing potential clients and employers to appreciate the professor's talents and accomplishments. 🚀📚🌟👨‍🏫
