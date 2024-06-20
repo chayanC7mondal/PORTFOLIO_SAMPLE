@@ -1,5 +1,37 @@
 
 /* 12 */
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+
+
+
+    .name{
+      font-size: 20px;
+      font-style: italic;
+      font-weight: 300;
+      font-family: "Playwrite NZ", cursive;
+     
+    }
+.top1{
+  margin-left: 90%;
+}
+    .top{
+      display: inline-block;
+     
+      color:#f9532d;
+      text-decoration: none;
+      font-size: 0.950rem;
+      font-weight: 600;
+      transition: .3s ease;
+      
+      line-height: 1;
+  
+    }
+.top:hover
+
+{
+  color: #00acf6;
+
+}
 
     
 
